@@ -1,1 +1,1 @@
-# OumaimaBN-Analysis-of-ANZ-Bank-customer-transactions-and-prediction-of-annual-salary
+# Analysis of ANZ Bank customer's transactions and prediction of annual salary
